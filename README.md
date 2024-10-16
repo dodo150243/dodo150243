@@ -1,7 +1,7 @@
 Contributions and suggestions are always welcome.
 -------------------------------------------------
 
-Junior Programmer
+Programmer
 
 ### Skills
 
